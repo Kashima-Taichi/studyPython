@@ -1,2 +1,5 @@
 .idea
 __pycache__
+config.ini
+/log/test.log
+test_sqlite.db
